@@ -6,7 +6,7 @@ A small, text-only kata to practice clustering related words as a way to suggest
 # The word list
 
 lead 
-vehicule 
+vehicle 
 stolen-cards
 frequent-customer 
 itinerary 
