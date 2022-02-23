@@ -11,11 +11,11 @@ stolen-cards
 frequent-customer 
 itinerary 
 recipient 
-related-tags 
+recommendation-tags 
 address 
 delivery-slot 
 market-segment 
-reference 
+listed-product 
 warehouse-staffing 
 stolen-credentials 
 prospect 
