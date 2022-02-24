@@ -44,5 +44,7 @@ catalog
 2. Propose a domain name for each cluster
 3. Check each cluster/sub-domain has a clear & distinct purpose (or rename accordingly if necessary)
 
-Then discuss & debrief together!
+Then discuss & debrief together: 
+- You probably alreaady know how to do most of this kind of clustering / spot the sub-domains
+- You could do just that on the fields & methods of your classes, or on your DB table columns in your project to help you split entities by sub-domains.
 
